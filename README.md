@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MuneeNdinda
 - 👀 I’m interested in website designing.
-- 🌱 I’m currently learning http
+- 🌱 I’m currently learning html and css
 - 💞️ I’m looking to collaborate on website design project
-- 📫 How to reach me ...
+- 📫 How to reach me tthrough my email-muthoniwamboi0@gmail.com.
 
 <!---
 MuneeNdinda/MuneeNdinda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
